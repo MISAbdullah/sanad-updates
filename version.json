@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip",
-  "notes": "تحسينات واجهة"
+  "notes": "مزامنة سحابية مشفّرة بالحساب (Supabase) — تعمل على أي جهاز بلا OneDrive"
 }
