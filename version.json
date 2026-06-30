@@ -1,5 +1,5 @@
 {
+  "version": "1.0.7",
   "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip",
-  "version": "1.0.6",
-  "notes": "الملف الشخصي (صورة/جنس/ميلاد) + تغيير كلمة المرور + تحديث تلقائي صامت عبر api.github"
+  "notes": "إصلاح: تنظيف عمليات Ollama المتراكمة (يحل بطء/تعطّل المستشار) + الملف الشخصي + تحديث صامت"
 }
