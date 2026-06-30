@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "notes": "حماية إضافية للبيانات: منع استبدال الحساب/الملف الشخصي بكتلة مزامنة فارغة",
-  "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip"
+  "version": "1.1.0",
+  "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip",
+  "notes": "تحليل أعمق للمستندات (الأحكام/العقود) في المستشار"
 }
