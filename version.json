@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
   "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip",
-  "notes": "تحليل أعمق للمستندات (الأحكام/العقود) في المستشار"
+  "notes": "إصلاح توقّف المستشار: تحميل نموذج واحد في الذاكرة (يردّ بثبات ~20ث بجودة 7B)",
+  "version": "1.1.1"
 }
