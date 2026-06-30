@@ -1,5 +1,5 @@
 {
-  "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip",
-  "version": "1.0.8",
-  "notes": "رسالة أوضح عند تجهيز المستشار + تنظيف Ollama + الملف الشخصي + تحديث صامت"
+  "version": "1.0.9",
+  "notes": "حماية إضافية للبيانات: منع استبدال الحساب/الملف الشخصي بكتلة مزامنة فارغة",
+  "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip"
 }
