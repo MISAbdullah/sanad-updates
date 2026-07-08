@@ -1,5 +1,5 @@
 {
+  "version": "1.1.7",
   "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip",
-  "notes": "إصلاح قراءة العقود المصوّرة (توجيه OCR للمحرّك المضمّن) + رسالة واضحة عند عدم توفّره",
-  "version": "1.1.6"
+  "notes": "إصلاح رفع العقود: اتصال مباشر + رسائل واضحة + تنظيف الخادم العالق عند الإقلاع"
 }
