@@ -1,5 +1,5 @@
 {
   "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip",
-  "version": "1.1.5",
-  "notes": "إصلاح فحص العقود (اتصال مباشر بلا انقطاع) + إرفاق ملفات للمستشار"
+  "notes": "إصلاح قراءة العقود المصوّرة (توجيه OCR للمحرّك المضمّن) + رسالة واضحة عند عدم توفّره",
+  "version": "1.1.6"
 }
