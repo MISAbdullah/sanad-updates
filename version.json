@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "ميزة جديدة: مقارنة الأحكام (بحث سحابي عن أحكام سابقة + تصوّر مبدئي محلي)",
-  "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip"
+  "url": "https://raw.githubusercontent.com/MISAbdullah/sanad-updates/main/Sanad-Update.zip",
+  "notes": "مقارنة الأحكام: عرض الأحكام وروابطها فوراً ثم التصوّر المبدئي",
+  "version": "1.2.1"
 }
